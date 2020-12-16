@@ -1,0 +1,5 @@
+service:
+  message: Hello this is from the prod environ
+
+server:
+  port: 9191
